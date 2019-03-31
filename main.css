@@ -1,0 +1,707 @@
+
+
+.citizens-israel {
+    margin-top: 30px;
+}
+
+.citizens-israel__top-bg {
+    background: url("img/shutterstock_1085490716@2x.jpg") no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 291px;
+    display: block;
+}
+
+.citizens-israel__h1 {
+    text-align: center;
+    font-size: 32px;
+    color: #497195;
+}
+
+.citizens-israel__text {
+    font-size: 16px;
+    color: #555555;
+    text-align: left;
+}
+
+.citizens-israel__h2 {
+    font-size: 24px;
+    text-align: center;
+    color: #333333;
+    font-weight: 600;
+}
+
+.citizens-israel__list {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+    margin-bottom: 26px;
+}
+
+.citizens-israel__list-column {
+    display: flex;
+    flex-direction: column;
+    width: 48%;
+}
+
+.citizens-israel__item {
+    display: flex;
+}
+
+.citizens-israel__item-block-img {
+    min-width: 50px;
+    display: flex;
+    margin-right: 22px;
+}
+
+.citizens-israel__item-img-couple {
+    background: url("img/couple.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 50px;
+    height: 45px;
+    display: block;
+}
+
+.citizens-israel__item-img-house {
+    background: url("img/house.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 50px;
+    height: 46px;
+    display: block;
+}
+
+.citizens-israel__item-img-price {
+    background: url("img/low-price.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 40px;
+    height: 48px;
+    display: block;
+}
+
+.citizens-israel__item-img-resort {
+    background: url("img/resort.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 50px;
+    height: 40px;
+    display: block;
+}
+
+.citizens-israel__info-section {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 94px;
+    background: #E7F4F7;
+    overflow: hidden;
+    border-radius: 3px;
+    margin-bottom: 48px;
+}
+
+.citizens-israel__info-section img {
+    object-fit: cover;
+    max-width: 100%;
+    height: auto;
+    position: relative;
+    right: 10px;
+    top: 2px;
+}
+
+.citizens-israel__info-section-text {
+    padding: 25px 20px;
+}
+
+.citizens-israel__info-section-text p {
+    margin-bottom: 0;
+}
+
+.citizens-israel__item-bottom-section {
+    width: 48%;
+}
+
+.citizens-israel__item-img-house-tp {
+    background: url("img/house-temperature.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 45px;
+    height: 46px;
+    display: block;
+}
+
+.citizens-israel__item-img-tax {
+    background: url("img/tax.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 40px;
+    height: 40px;
+    display: block;
+}
+
+.citizens-israel__differences {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.citizens-israel__differences-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 49%;
+    border: 1px solid #D8E5E8;
+    margin-bottom: 21px;
+}
+
+.citizens-israel__differences-img {
+    width: 100%;
+    height: 135px;
+}
+
+.citizens-israel__differences-img-ban {
+    background: url("img/citizens-israel__differences-img-ban.png") no-repeat center;
+    background-size: cover;
+}
+
+.citizens-israel__differences-img-realtor {
+    background: url("img/citizens-israel__differences-img-realtor.png") no-repeat center;
+    background-size: cover;
+}
+
+.citizens-israel__differences-img-mortgage {
+    background: url("img/citizens-israel__differences-img-mortgage.png") no-repeat center;
+    background-size: cover;
+}
+
+.ccitizens-israel__differences-img-dachshund {
+    background: url("img/ccitizens-israel__differences-img-dachshund.png") no-repeat center;
+    background-size: cover;
+}
+
+.citizens-israel__differences-text {
+    margin-top: 18px;
+    padding-left: 20px;
+    padding-right: 18px;
+    font-size: 16px;
+    margin-bottom: auto;
+}
+
+.citizens-israel__differences-color-bottom {
+    background: rgba(241, 133, 86, 0.3);
+    padding: 21px 16px 14px 26px;
+    display: flex;
+    align-items: center;
+}
+
+.citizens-israel__differences-color-bottom p {
+    margin-bottom: 0;
+}
+
+.citizens-israel__differences-icon-block {
+    min-width: 35px;
+    display: flex;
+    justify-content: center;
+    margin-right: 16px;
+}
+
+.citizens-israel__differences-icon {
+    background: url("img/light-bulb.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 35px;
+    height: 37px;
+}
+
+.citizens-israel__differences-text a {
+    margin-bottom: 30px;
+    display: block;
+}
+
+.citizens-israel__stages {
+    margin-top: 24px;
+    margin-bottom: 34px;
+}
+
+.citizens-israel__stages-block {
+    display: flex;
+    width: 48%;
+    margin-bottom: 33px;
+}
+
+.citizens-israel__stages-block-left {
+    float: left;
+}
+
+.citizens-israel__stages-block-right {
+    float: right;
+}
+
+.citizens-israel__stages-block-icon {
+    min-width: 37px;
+    display: flex;
+    justify-content: center;
+    margin-right: 28px;
+}
+
+.citizens-israel__stages-icon-1 {
+    background: url("img/1.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 37px;
+    height: 37px;
+}
+
+.citizens-israel__stages-icon-2 {
+    background: url("img/2.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 37px;
+    height: 37px;
+}
+
+.citizens-israel__stages-icon-3 {
+    background: url("img/3.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 37px;
+    height: 37px;
+}
+
+.citizens-israel__stages-icon-4 {
+    background: url("img/4.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 37px;
+    height: 37px;
+}
+
+.citizens-israel__stages-icon-5 {
+    background: url("img/5.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 37px;
+    height: 37px;
+}
+
+.citizens-israel__stages-block-text p {
+    margin-bottom: 0;
+    font-size: 16px;
+    color: #555555;
+}
+
+.citizens-israel__border {
+    padding: 31px 20px 37px;
+    border: 1px solid #F18556;
+    border-radius: 5px;
+    margin-bottom: 33px;
+}
+
+.citizens-israel__border * {
+    font-size: 16px;
+}
+
+.citizens-israel__border-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.citizens-israel__border-block {
+    display: flex;
+    margin-top: 24px;
+}
+
+.citizens-israel__border-blockWidth100 {
+    width: 100%;
+}
+
+.citizens-israel__border-blockWidth50 {
+    width: 48.7%;
+}
+
+.citizens-israel__border-block-icon {
+    min-width: 40px;
+    display: flex;
+    justify-content: center;
+    margin-right: 16px;
+}
+
+.citizens-israel__border-block-icon-zoom {
+    background: url("img/house-zoom.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 39px;
+    height: 39px;
+}
+
+.citizens-israel__border-block-icon-contract {
+    background: url("img/contract.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 39px;
+    height: 39px;
+}
+
+.citizens-israel__border-block-icon-insurance {
+    background: url("img/insurance.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 37px;
+    height: 37px;
+}
+
+.citizens-israel__border-block-title {
+    font-weight: bold;
+    color: #3895AA;
+}
+
+.citizens-israel__border-block-text {
+    line-height: 19px;
+}
+
+.citizens-israel__border-title {
+    color: #F18556;
+    font-weight: bold;
+}
+
+.citizens-israel__jotting {
+    display: flex;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 52px;
+}
+
+.citizens-israel__jotting-img {
+    background: #D8E5E8;
+    min-width: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.citizens-israel__jotting-logo {
+    background: url("img/logo.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 49px;
+    height: 45px;
+}
+
+.citizens-israel__jotting-text {
+    background: #E7F4F7;
+    padding: 21px 70px 20px 20px;
+    display: flex;
+    align-items: center;
+}
+
+.citizens-israel__jotting-text p {
+    font-size: 16px;
+    color: #555555;
+    line-height: 19px;
+    margin-bottom: 0;
+}
+
+.citizens-israel__customers {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+    margin-bottom: 28px;
+}
+
+.citizens-israel__customers-block {
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+}
+
+.citizens-israel__customers-block:first-child {
+    margin-right: 7px;
+}
+
+.citizens-israel__customers-block:last-child {
+    margin-left: 7px;
+}
+
+.citizens-israel__customers-block-text {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    border: 1px solid #E2E2E2;
+    padding: 13px 16px 12px 16px;
+}
+
+.citizens-israel__customers-block-name,
+.citizens-israel__customers-block-link {
+    width: 100%;
+}
+
+.citizens-israel__customers-block-address,
+.citizens-israel__customers-block-deal {
+    width: 50%;
+}
+
+.citizens-israel__customers-block-video {
+    position: relative;
+    padding-bottom: 56.25%; /* задаёт высоту контейнера для 16:9 (если 4:3 — поставьте 75%) */
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+.citizens-israel__customers-block-video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.citizens-israel__customers-block-text > dd {
+    margin-top: 12px;
+}
+
+.citizens-israel__customers-block-item {
+    font-size: 16px;
+}
+
+.citizens-israel__customers-block-name {
+    font-weight: bold;
+    color: #333333;
+}
+
+.citizens-israel__customers-block-address,
+.citizens-israel__customers-block-deal {
+    color: #555555;
+}
+
+.citizens-israel__customers-block-address span {
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.citizens-israel__customers-block-deal span {
+    font-weight: bold;
+    color: #F18556;
+    padding-left: 10px;
+}
+
+.citizens-israel__request {
+    background: #E7F4F7;
+    padding: 21px 30px 32px 26px;
+    border: 1px solid #C6DDE2;
+    border-radius: 3px;
+    margin-bottom: 36px;
+}
+
+.citizens-israel__request .form-control::-webkit-input-placeholder {
+    font-weight: 600;
+}
+
+.citizens-israel__request .form-control {
+    margin-bottom: 4px;
+}
+
+.citizens-israel__request textarea {
+    height: 148px;
+}
+
+.citizens-israel__request-title {
+    color: #333333;
+    font-size: 18px;
+    margin-bottom: 21px;
+    font-weight: 600;
+}
+
+.citizens-israel__answer-container {
+    border: 1px solid #C6DDE2;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.citizens-israel__answer-content {
+    padding: 15px 30px 15px 26px;
+}
+
+.citizens-israel__answer-content p {
+    color: #555555;
+}
+
+.citizens-israel__answer-container header {
+    padding: 13px 26px;
+    color: #333333;
+    font-size: 16px;
+    font-weight: 600;
+    background: #E7F4F7;
+    border-bottom: 1px solid #C6DDE2;
+    border-radius: 5px;
+}
+
+.citizens-israel__block-excerpt {
+    margin-top: 4px;
+    margin-bottom: 14px;
+    padding-top: 19px;
+    background: #FFFCE5;
+    border-radius: 5px;
+}
+
+.citizens-israel__block-excerpt > p {
+    padding-left: 25px;
+    padding-right: 20px;
+    color: #555555;
+    margin-bottom: 14px;
+}
+
+.citizens-israel__block-excerpt footer {
+    padding: 13px 20px 17px 25px;
+    background: #F0E8B5;
+    border-radius: 5px;
+    color: #555555;
+    margin-top: 15px;
+}
+
+.citizens-israel__block-excerpt footer p {
+    margin-bottom: 0;
+}
+
+.citizens-israel__answer-content-attention {
+    font-size: 16px;
+    font-weight: bold;
+    color: #F18556;
+    line-height: 19px;
+}
+
+.citizens-israel__answer-content li {
+    list-style-type: none;
+    color: #555555;
+    margin-bottom: 14px;
+    position: relative;
+}
+
+.citizens-israel__answer-content li:before {
+    content: '';
+    position: absolute;
+    left: -30px;
+    top: 10px;
+    min-width: 10px;
+    min-height: 3px;
+    max-height: 3px;
+    height: 3px;
+    border-radius: 10px;
+    overflow: hidden;
+    background: #F18556;
+}
+
+.citizens-israel__answer-content-marginBottom {
+    margin-bottom: 60px;
+}
+
+.citizens-israel__block-excerpt-vput {
+    padding-bottom: 19px;
+    margin-top: 28px;
+    margin-bottom: 24px;
+}
+
+.citizens-israel__block-excerpt-vput p {
+    margin-bottom: 0;
+}
+
+.citizens-israel__answer-container a {
+    color: #3895AA;
+}
+
+.citizens-israel__answer-container-important {
+    color: #F18556;
+    font-weight: bold;
+}
+
+@media (max-width: 1199.98px) {
+    .citizens-israel__customers-block-address,
+    .citizens-israel__customers-block-deal {
+        width: 100%;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .citizens-israel__list {
+        flex-direction: column;
+    }
+
+    .citizens-israel__list-column,
+    .citizens-israel__item-bottom-section,
+    .citizens-israel__differences-container,
+    .citizens-israel__stages-block,
+    .citizens-israel__border-blockWidth50,
+    .citizens-israel__customers-block {
+        width: 100%;
+    }
+
+    .citizens-israel__info-section {
+        height: auto;
+    }
+
+    .citizens-israel__info-section img {
+        display: none;
+    }
+
+    .citizens-israel__jotting-text {
+        padding-right: 20px;
+    }
+
+    .citizens-israel__customers {
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .citizens-israel__h1 {
+        font-size: 24px;
+    }
+
+    .citizens-israel__h2 {
+        font-size: 18px;
+    }
+
+    .citizens-israel__text,
+    .citizens-israel__differences-text,
+    .citizens-israel__stages-block-text p,
+    .citizens-israel__jotting-text p {
+        font-size: 14px;
+    }
+
+    .citizens-israel__answer-content {
+        padding: 15px;
+    }
+}
+
+@media (max-width: 424.98px) {
+    .citizens-israel__item-block-img,
+    .citizens-israel__stages-block-icon,
+    .citizens-israel__border-block-icon {
+        margin-right: 10px;
+    }
+
+    .citizens-israel__differences-color-bottom {
+        flex-direction: column;
+        padding-left: 16px;
+    }
+
+    .citizens-israel__differences-icon-block {
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+
+    .citizens-israel__differences-color-bottom p,
+    .citizens-israel__info-section-text p {
+        text-align: center;
+    }
+
+    .citizens-israel__border * {
+        font-size: 14px;
+    }
+
+    .citizens-israel__jotting {
+        flex-direction: column;
+    }
+
+    .citizens-israel__jotting-logo {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .citizens-israel__jotting-text p {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .citizens-israel__request {
+        padding: 21px 0px 32px 0px;
+    }
+}

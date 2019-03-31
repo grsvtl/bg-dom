@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39.801" height="47.761" viewBox="0 0 39.801 47.761">
+  <g id="low-price" transform="translate(-0.1)">
+    <path id="Shape" d="M19.9,47.761a.79.79,0,0,1-.551-.221L.246,29.231A.8.8,0,0,1,.8,27.86H6.368V.8a.8.8,0,0,1,.8-.8H32.637a.8.8,0,0,1,.8.8V27.86h5.572a.8.8,0,0,1,.551,1.371L20.452,47.54A.793.793,0,0,1,19.9,47.761ZM2.776,29.452,19.9,45.863,37.024,29.452H32.637a.8.8,0,0,1-.8-.8V1.592H7.96V28.657a.8.8,0,0,1-.8.8Z" transform="translate(0.099)" fill="#f18556"/>
+    <g id="Group" transform="translate(9.652 3.184)">
+      <path id="Path" d="M0,0H1.592V1.592H0Z" fill="#f18556"/>
+      <path id="Path-2" data-name="Path" d="M0,0H1.592V1.592H0Z" transform="translate(3.184)" fill="#f18556"/>
+      <path id="Path-3" data-name="Path" d="M0,0H1.592V1.592H0Z" transform="translate(6.368)" fill="#f18556"/>
+    </g>
+    <path id="SVGCleanerId_0" d="M0,0H1.592V1.592H0Z" transform="translate(19.204 3.184)" fill="#f18556"/>
+    <path id="SVGCleanerId_0_1_" d="M0,0H1.592V1.592H0Z" transform="translate(19.204 3.184)" fill="#f18556"/>
+    <g id="Group-2" data-name="Group" transform="translate(13.632 3.184)">
+      <path id="Path-4" data-name="Path" d="M0,0H1.592V1.592H0Z" transform="translate(8.756)" fill="#f18556"/>
+      <path id="Path-5" data-name="Path" d="M0,0H1.592V1.592H0Z" transform="translate(11.94)" fill="#f18556"/>
+      <path id="Path-6" data-name="Path" d="M0,0H1.592V1.592H0Z" transform="translate(15.124)" fill="#f18556"/>
+      <path id="Path-7" data-name="Path" d="M6.368,1.592h4.776V0H6.368a3.985,3.985,0,0,0-3.98,3.98V5.572H.8V7.164H2.388V8.756H0v1.592H2.388v3.184a3.985,3.985,0,0,0,3.98,3.98h4.776V15.92H6.368A2.388,2.388,0,0,1,3.98,13.532V10.348H8.756V8.756H3.98V7.164H9.552V5.572H3.98V3.98A2.388,2.388,0,0,1,6.368,1.592Z" transform="translate(0 7.164)" fill="#f18556"/>
+    </g>
+  </g>
+</svg>
